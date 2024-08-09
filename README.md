@@ -18,7 +18,7 @@
 
 ```yaml
 name: Justyn
-located_in: Sydney, Australia
+located_in: Brisbane, Australia
 education: ["Master's in Data Science", "Bachelor's in Psychology"]
 hobbies: ["Sport", "Gaming", "Reading", "Science"]
 ```
