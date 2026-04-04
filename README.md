@@ -27,6 +27,7 @@ I have a blog over at <a href="https://becausejustyn.netlify.app/">https://becau
   <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub stats">
   <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top languages">
   <img height="180" src="https://streak-stats.demolab.com?user=becausejustyn&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub streak">
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&commits_year=2026&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=stars,prs,issues,contribs&custom_title=Commits%20in%202026" alt="Commits in 2026">
   <br>
   <br>
 </p>
