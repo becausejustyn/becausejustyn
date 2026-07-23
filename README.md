@@ -23,11 +23,29 @@ I have a blog over at <a href="https://becausejustyn.netlify.app/">https://becau
 
 ***
 
+<!--
+  NOTE ON PRIVATE CONTRIBUTIONS:
+  Public stats services (github-readme-stats, streak-stats, etc.) can only see PUBLIC
+  activity, so `count_private=true` is a no-op on their public instances and has been
+  removed. ~97% of contributions here are in private repos, so the stat cards below show
+  public numbers only. The contribution-activity graph, however, scrapes the public
+  profile calendar (which DOES include private contributions because the "Include private
+  contributions on my profile" setting is enabled), so it reflects the true total.
+  To make the stat cards themselves include private commits, self-host github-readme-stats
+  on Vercel with a personal access token (PAT_1 env var).
+-->
 <p align="center">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&count_private=true" alt="GitHub stats">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&count_private=true" alt="Top languages">
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub stats">
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top languages">
   <img height="180" src="https://streak-stats.demolab.com?user=becausejustyn&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub streak">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&commits_year=2026&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=stars,prs,issues,contribs&custom_title=Commits%20in%202026&count_private=true" alt="Commits in 2026">
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&commits_year=2026&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=stars,prs,issues,contribs&custom_title=Commits%20in%202026" alt="Commits in 2026">
+  <br>
+  <br>
+</p>
+
+<!-- Full contribution activity (includes private repos, ~2,760/yr) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=becausejustyn&bg_color=00000000&hide_border=true&color=E6EDF3&line=39D353&point=FFFFFF&area=true&area_color=39D353&custom_title=Contribution%20Activity%20(private%20included)" alt="Contribution activity graph" width="90%">
   <br>
   <br>
 </p>
