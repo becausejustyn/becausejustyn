@@ -1,51 +1,87 @@
+<h1 align="center">Justyn Rodrigues</h1>
+
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/justyn-rodrigues-6b2612231">
-  <img alt="Justyn's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/b7iflt2s6um28zx952r2rp1q9?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="Justyn's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
+  <strong>Data Scientist · Machine Learning · Production Data & Software Systems</strong>
 </p>
 
-***
-
-```yaml
-name: Justyn
-located_in: Brisbane, Australia
-education: ["Master's in Data Science", "Bachelor's in Psychology"]
-hobbies: ["Sport", "Gaming", "Reading", "Science"]
-```
-
-***
-
-I have a blog over at <a href="https://becausejustyn.netlify.app/">https://becausejustyn.netlify.app/</a>
-
-***
-
-<!--
-  NOTE ON PRIVATE CONTRIBUTIONS:
-  Public stats services (github-readme-stats, streak-stats, etc.) can only see PUBLIC
-  activity, so `count_private=true` is a no-op on their public instances and has been
-  removed. ~97% of contributions here are in private repos, so the stat cards below show
-  public numbers only. The contribution-activity graph, however, scrapes the public
-  profile calendar (which DOES include private contributions because the "Include private
-  contributions on my profile" setting is enabled), so it reflects the true total.
-  To make the stat cards themselves include private commits, self-host github-readme-stats
-  on Vercel with a personal access token (PAT_1 env var).
--->
 <p align="center">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub stats">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top languages">
-  <img height="180" src="https://streak-stats.demolab.com?user=becausejustyn&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub streak">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=becausejustyn&commits_year=2026&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=stars,prs,issues,contribs&custom_title=Commits%20in%202026" alt="Commits in 2026">
-  <br>
-  <br>
+  Brisbane, Australia ·
+  <a href="mailto:justynrodrigues24@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/justyn-rodrigues-6b2612231">LinkedIn</a> ·
+  <a href="https://becausejustyn.netlify.app/">Blog</a>
 </p>
 
-<!-- Full contribution activity (includes private repos, ~2,760/yr) -->
+---
+
+## Profile
+
+I am a data scientist who builds production software, cloud infrastructure and data platforms that turn operational problems into maintainable data products. My work spans stakeholder discovery, architecture, deployment and ongoing support, with hands-on experience across Python, SQL, Azure, CI/CD and applied machine learning.
+
+I am also a published AI researcher at ECAI 2025, with research experience in computer vision and explainable AI. I am particularly interested in data science and machine learning engineering roles within collaborative technical teams.
+
+## Selected impact
+
+- Designed and deployed a production HSEQ prestart platform used by approximately **80 workers per day**, replacing paper-based processes and a legacy solution.
+- Delivered approximately **20 Power BI reports**, including more than **10 production reports** supporting operational and executive decisions.
+- Automated a monthly reporting workflow, saving each project team up to **four days per project, per month**.
+- Built an NLP classification pipeline for **1,000+ free-text responses**, moving from LLM API calls to a fine-tuned Sentence Transformer for on-premises inference.
+- Published peer-reviewed research on explainable AI and bias at **ECAI 2025**.
+
+## Experience
+
+### Data Scientist · McIlwain
+
+*February 2026 – Present*
+
+- Own the end-to-end delivery of production data and software solutions, from requirements gathering and architecture through deployment, monitoring and maintenance.
+- Built a Next.js and TypeScript HSEQ platform with public QR-code workflows, internal administration and automated labour-hour reporting.
+- Manage Azure App Service, Azure SQL, Blob Storage, Key Vault and Application Insights, with CI/CD through GitHub Actions and self-hosted runners.
+- Develop production Power BI reporting and data products while establishing reliable HSEQ data for future predictive safety analytics.
+
+### Graduate Data Scientist · McIlwain
+
+*2024 – January 2026*
+
+- Supported the full data stack as the sole data professional, including database management, ETL, semantic modelling and executive reporting.
+- Developed automated pipelines integrating REST APIs, Python and SQL.
+- Translated operational requirements into maintainable solutions while improving documentation, naming standards and data governance.
+
+### Research Lead / Data Scientist · Western Sydney University
+
+*2022 – 2025*
+
+- Led an end-to-end study of whether saliency-map explanations help people identify bias in facial-recognition models.
+- Designed the methodology and participant protocols, authored the ethics application, developed PyTorch models and analysed the results.
+- Published the research at the European Conference on Artificial Intelligence (ECAI 2025).
+
+## Selected work
+
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **NRL Match Prediction** | An in-progress, end-to-end sports prediction project using classification, XGBoost and Bayesian causal methods. | [Repository](https://github.com/becausejustyn/nrl-predictions) |
+| **Saliency Map Bias User Study** | The open research repository supporting my ECAI 2025 work on explanations and bias in facial-recognition models. | [Repository](https://github.com/becausejustyn/saliency_map_bias_user_study) · [Publication](https://doi.org/10.3233/FAIA250936) |
+
+## Technical toolkit
+
+- **Languages & delivery:** Python, SQL, TypeScript, Git/GitHub, GitHub Actions, CI/CD
+- **Machine learning:** PyTorch, XGBoost, NLP, Sentence Transformers, LLM applications, computer vision, explainable AI, Bayesian methods, statistical modelling
+- **Software & cloud:** Next.js, REST APIs, Azure App Service, Azure SQL, Blob Storage, Key Vault, Application Insights, Linux
+- **Analytics & data:** Power BI, semantic modelling, ETL pipelines, T-SQL, MySQL, data visualisation
+
+## Publication
+
+Rodrigues, J., Ehinger, K. A., Obst, O., & Wang, X. R. (2025). **Do Explanations Expose Bias? How Saliency Maps Affect Judgements of Biased Face-Recognition Models.** *Frontiers in AI and Applications, 413*, 1229–1236. ECAI 2025. [https://doi.org/10.3233/FAIA250936](https://doi.org/10.3233/FAIA250936)
+
+## Education & certification
+
+- **Master of Data Science**, Western Sydney University, 2020–2022 — Dean's Merit List, 2021 and 2022
+- **Bachelor of Social Science (Psychology)**, Western Sydney University, 2017–2019
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**, issued March 2026
+
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=becausejustyn&bg_color=00000000&hide_border=true&color=E6EDF3&line=39D353&point=FFFFFF&area=true&area_color=39D353&custom_title=Contribution%20Activity%20(private%20included)" alt="Contribution activity graph" width="90%">
-  <br>
-  <br>
+  <a href="mailto:justynrodrigues24@gmail.com">Get in touch</a> ·
+  <a href="https://becausejustyn.netlify.app/">Read my blog</a> ·
+  <a href="https://github.com/becausejustyn?tab=repositories">Explore my repositories</a>
 </p>
