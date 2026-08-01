@@ -23,6 +23,4 @@ I am also a published AI researcher with experience in computer vision and expla
 
 ### Toolkit
 
-Python · SQL · R · Julia · PyTorch · XGBoost · NLP · TypeScript · Next.js · Azure · Power BI · GitHub Actions · CI/CD
-
-<sub>Master of Data Science, Western Sydney University — Dean's Merit List · Microsoft Certified: Power BI Data Analyst Associate</sub>
+Python · SQL · R · Julia · TypeScript
