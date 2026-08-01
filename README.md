@@ -58,8 +58,9 @@ I am also a published AI researcher at ECAI 2025, with research experience in co
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
+| **Saliency Map Bias User Study** | Peer-reviewed ECAI 2025 research on whether saliency maps help people identify bias in facial-recognition models, supported by reproducible notebooks and a custom R package developed for the study's analysis. | [Research repository](https://github.com/becausejustyn/saliency_map_bias_user_study) · [R analysis package](https://github.com/becausejustyn/brrr) · [Publication](https://doi.org/10.3233/FAIA250936) |
+| **NFL Elo Simulation in Julia** | A complete modelling pipeline that builds Elo ratings from historical games, evaluates probability quality with Brier score and log-loss, and runs Monte Carlo season and playoff simulations. | [Repository](https://github.com/becausejustyn/nfl-elo-julia) |
 | **NRL Match Prediction** | An in-progress, end-to-end sports prediction project using classification, XGBoost and Bayesian causal methods. | [Repository](https://github.com/becausejustyn/nrl-predictions) |
-| **Saliency Map Bias User Study** | The open research repository supporting my ECAI 2025 work on explanations and bias in facial-recognition models. | [Repository](https://github.com/becausejustyn/saliency_map_bias_user_study) · [Publication](https://doi.org/10.3233/FAIA250936) |
 
 ## Technical toolkit
 
